@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Triangles/bin/Debug/netcoreapp1.1/Triangles.deps.json
+/Users/Guest/Desktop/Triangles/bin/Debug/netcoreapp1.1/Triangles.runtimeconfig.json
+/Users/Guest/Desktop/Triangles/bin/Debug/netcoreapp1.1/Triangles.runtimeconfig.dev.json
+/Users/Guest/Desktop/Triangles/bin/Debug/netcoreapp1.1/Triangles.dll
+/Users/Guest/Desktop/Triangles/bin/Debug/netcoreapp1.1/Triangles.pdb
+/Users/Guest/Desktop/Triangles/obj/Debug/netcoreapp1.1/Triangles.AssemblyInfo.cs
+/Users/Guest/Desktop/Triangles/obj/Debug/netcoreapp1.1/Triangles.dll
+/Users/Guest/Desktop/Triangles/obj/Debug/netcoreapp1.1/Triangles.pdb
